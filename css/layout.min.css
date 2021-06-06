@@ -1305,3 +1305,6 @@ fieldset[disabled] .btn-theme {
   content: "\f105";
   padding-left: 10px;
 }
+.attribute {
+  position: absolute;
+}
