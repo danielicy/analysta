@@ -173,6 +173,7 @@ h4 {
 }
 .section-seperator {
   border-bottom: 1px solid #edf0f2;
+  height: 580px;
 }
 .content-wrapper-link {
   position: absolute;
@@ -1307,4 +1308,9 @@ fieldset[disabled] .btn-theme {
 }
 .attribute {
   position: absolute;
+}
+
+.map {
+  position: relative;
+  margin: auto;
 }
