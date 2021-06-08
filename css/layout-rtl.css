@@ -2,6 +2,7 @@
 body {
   position: relative;
   font-family: Hind, sans-serif;
+  contain: layout;
   direction: rtl;
 }
 .btn-theme,
