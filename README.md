@@ -28,6 +28,41 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+Analytical mapping is a method used to visually represent and analyze data. It is a way of creating maps that go beyond simple representation of geographical information, and instead are used to explore and analyze data in order to uncover patterns, relationships, and trends.
+
+The process of analytical mapping involves a number of steps, including:
+
+Collecting and preparing data: The first step is to gather the data that will be used in the analysis. This can include data on demographics, economic indicators, crime rates, or any other type of data that is relevant to the topic of the analysis.
+
+Choosing the appropriate map type: Different types of data and analyses call for different types of maps. For example, a choropleth map, which uses color to represent data, might be appropriate for displaying data on population density, while a dot density map, which uses dots to represent data, might be better for displaying crime data.
+
+Creating the map: Once the data has been collected and prepared and the appropriate map type has been chosen, the map can be created using GIS software or online mapping tools. The map should be designed so that it effectively communicates the data and the analysis.
+
+Analyzing the data: After the map has been created, the data can be analyzed to uncover patterns, relationships, and trends. This can involve using techniques such as spatial statistics, spatial clustering, or spatial regression analysis.
+
+Communicating the results: The final step is to communicate the results of the analysis to others. This can involve creating reports, presentations, or interactive web maps that allow others to explore the data and the analysis.
+
+Analytical mapping is a powerful tool for understanding and exploring data, and it is used in a wide variety of fields, such as urban planning, public health, marketing, and many more.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
