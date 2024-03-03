@@ -45,6 +45,12 @@ Communicating the results: The final step is to communicate the results of the a
 Analytical mapping is a powerful tool for understanding and exploring data, and it is used in a wide variety of fields, such as urban planning, public health, marketing, and many more.
 
 
+What is spatial analysis?
+
+Spatial analysis is the process of examining the location, distribution, and relationship of geographic features and phenomena. It involves applying various methods and techniques to spatial data, such as maps, satellite images, and sensors, to answer questions, solve problems, and reveal patterns. Spatial analysis can help you understand how humidity varies across space and time, and what factors influence it.
+
+
+
 
 
 
