@@ -886,6 +886,11 @@ fieldset[disabled] .btn-theme {
 .color-white {
   color: #fff !important;
 }
+.title-secondary {
+color:#ad3b05b6 !important;
+font-weight: bolder !important;
+background: #45bbff;
+}
 .color-heading {
   color: #515769 !important;
 }
