@@ -275,6 +275,19 @@ fieldset[disabled] .btn-theme {
   background: red;
   border-color: red;
 }
+.btn-green-brd {
+  color: #1be414;
+  background: 0 0;
+  border-color: #00ff37;
+  border-width: 2px;
+}
+.btn-green-brd.focus,
+.btn-green-brd:focus,
+.btn-green-brd:hover {
+  color: #515769;
+  background: red;
+  border-color: red;
+}
 .btn-default-bg {
   color: #515769;
   background: #f3f4f5;
