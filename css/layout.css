@@ -403,6 +403,9 @@ fieldset[disabled] .btn-theme {
   transition-property: all;
   transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
 }
+.work .work-image{
+  margin-top: 5%;
+}
 .work .work-popup-overlay {
   position: fixed;
   right: 0;
