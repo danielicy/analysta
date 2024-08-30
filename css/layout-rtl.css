@@ -889,6 +889,9 @@ fieldset[disabled] .btn-theme {
 .color-base {
   color: #17bed2 !important;
 }
+.color-yellow {
+  color: #fffb00 !important;
+}
 .color-white {
   color: #fff !important;
 }
