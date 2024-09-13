@@ -622,7 +622,7 @@ fieldset[disabled] .btn-theme {
   transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
 }
 .header .nav-item-child {
-  font-size: 14px;
+  font-size: 18px;
   font-weight: 700;
   color: #fff;
   letter-spacing: 0.02em;
