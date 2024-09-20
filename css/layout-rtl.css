@@ -48,6 +48,7 @@ span {
 }
 .link:after,
 .pricing .pricing-list-item:before {
+ 
   content: "+";
 }
 .back-to-top:focus,
@@ -305,7 +306,7 @@ fieldset[disabled] .btn-theme {
 }
 .pricing {
   padding: 70px 45px;
-  background: #fff;
+  
   margin-top: 50px;
 }
 @media (max-width: 768px) {
@@ -333,15 +334,15 @@ fieldset[disabled] .btn-theme {
   position: relative;
   font-size: 13px;
   color: #81848f;
-  padding-left: 20px;
+  padding-right: 20px;
   margin-bottom: 10px;
   font-family: Ubuntu, Helvetica, Arial, sans-serif;
 }
 .pricing .pricing-list-item:before {
   position: absolute;
-  left: 0;
+  right: 0;
   color: red;
-  margin-right: 10px;
+  margin-left: 10px;
 }
 .work .work-overlay:before,
 .work .work-popup-overlay {
@@ -934,6 +935,10 @@ background: #45bbff;
   background: #999caa !important;
 }
 .bg-color-sky-light {
+  background: #fafafa !important;
+}
+
+bg-color-sky-dark{
   background: #535252 !important;
 }
 .row-space-1 {
@@ -959,6 +964,10 @@ background: #45bbff;
 .content-lg {
   padding-top: 100px;
   padding-bottom: 100px;
+}
+.content-lg1 {
+  padding-top: 3%;
+  padding-bottom: 3%;
 }
 .full-width {
   width: 100%;
