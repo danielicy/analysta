@@ -1363,3 +1363,12 @@ background: #45bbff;
 .col-sm-9 {
   float: right;
 }
+
+.red-title{
+  color: red;
+  font-size: 100px;
+}
+.red-marker{
+  color: red;
+  font-weight: bold;
+}
