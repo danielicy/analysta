@@ -84,7 +84,7 @@ html a {
 p {
   font-size: 15px;
   font-weight: 400;
-  color: #a6a7aa;
+  color: white;
   margin-bottom: 15px;
 }
 em,
@@ -115,7 +115,7 @@ a:hover {
 span {
   font-size: 14px;
   font-weight: 400;
-  color: #bfc1c7;
+  color: white;
 }
 h1,
 h2,
@@ -124,7 +124,7 @@ h4,
 h5,
 h6 {
   font-weight: 700;
-  color: #515769;
+  color: #ffffff;
   line-height: 1.4;
   margin: 0 0 15px;
 }
@@ -935,7 +935,7 @@ fieldset[disabled] .btn-theme {
   background: #999caa !important;
 }
 .bg-color-sky-light {
-  background: #fafafa !important;
+  background: #535252 !important;
 }
 .row-space-1 {
   margin-right: -1px;
